@@ -1,0 +1,7 @@
+alg-firefox-settings
+alg-plasma-settings
+discover
+firefox
+konsole
+libreoffice-fresh
+lftp
