@@ -134,8 +134,11 @@ ForegroundPositive=39,174,96
 ForegroundVisited=82,148,226
 
 [General]
+BrowserApplication=brave-browser.desktop
 ColorScheme=Qogirdark
 Name=Qogirdark
+TerminalApplication=alacritty
+TerminalService=Alacritty.desktop
 shadeSortColumn=true
 widgetStyle=Breeze
 
@@ -145,6 +148,7 @@ Theme=Tela-circle-dark
 [KDE]
 ColorScheme=BreezeLight
 LookAndFeelPackage=com.github.vinceliuice.Qogir-dark
+SingleClick=false
 contrast=4
 widgetStyle=Breeze
 
