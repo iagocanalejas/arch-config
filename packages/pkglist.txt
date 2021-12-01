@@ -4,6 +4,7 @@ bat
 bitwarden
 btop
 code
+cmake
 dbeaver
 discord
 dosfstools

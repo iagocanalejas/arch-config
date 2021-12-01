@@ -8,6 +8,7 @@ nerd-fonts-fira-code
 ocs-url
 onlyoffice-bin
 openhardwaremonitor
+plasma5-applets-eventcalendar
 qbittorrent
 rpi-imager
 snap-pac

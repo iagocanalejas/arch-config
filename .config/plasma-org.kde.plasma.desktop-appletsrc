@@ -37,26 +37,23 @@ location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
-[Containments][2][Applets][16]
-immutability=1
-plugin=org.kde.plasma.digitalclock
-
-[Containments][2][Applets][16][Configuration]
-PreloadWeight=0
-
-[Containments][2][Applets][16][Configuration][Appearance]
-showDate=false
-
-[Containments][2][Applets][16][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
 [Containments][2][Applets][17]
 immutability=1
 plugin=org.kde.plasma.showdesktop
 
 [Containments][2][Applets][17][Configuration]
 PreloadWeight=0
+
+[Containments][2][Applets][21]
+immutability=1
+plugin=org.kde.plasma.eventcalendar
+
+[Containments][2][Applets][21][Configuration]
+PreloadWeight=55
+
+[Containments][2][Applets][21][Configuration][General]
+v71Migration=true
+v72Migration=true
 
 [Containments][2][Applets][3]
 immutability=1
@@ -124,7 +121,7 @@ DialogWidth=800
 PreloadWeight=0
 
 [Containments][2][General]
-AppletOrder=3;4;5;6;7;16;17
+AppletOrder=3;4;5;6;7;21;17
 
 [Containments][8]
 activityId=
